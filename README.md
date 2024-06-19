@@ -11,10 +11,10 @@ detail screen
   - click map go to screen by use detail site selected
 
 3.screen3
-  -show marker and move to site selected
-  -show detail address from site 
-  -show detail site from site show site,distance,opening time and closing time
+  - show marker and move to site selected
+  - show detail address from site 
+  - show detail site from site show site,distance,opening time and closing time
  
 install
 1.open project
-2.cmd flutter pub get install ศibrary to be used 
+2.cmd flutter pub get install library to be used 
