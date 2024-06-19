@@ -16,5 +16,5 @@ detail screen
   - show detail site from site show site,distance,opening time and closing time
  
 install
-1.open project
-2.cmd flutter pub get install library to be used 
+ - open project
+ - cmd flutter pub get install library to be used 
