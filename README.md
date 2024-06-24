@@ -3,7 +3,7 @@
 detail screen
 
 1.screen1
-  - search by name location and move to position or click selected position and marker position
+  - search by name location from google map api and move to position or click selected position and marker position
   - click confirm to next screen 2
 
 2.screen2
