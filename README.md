@@ -1,6 +1,7 @@
 # sitelocationtesting
 
 detail screen
+
 1.screen1
   - search by name location and move to position or click selected position and marker position
   - click confirm to next screen 2
