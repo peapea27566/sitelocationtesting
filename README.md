@@ -18,4 +18,4 @@ detail screen
  
 install
  - open project
- - cmd flutter pub get install library to be used 
+ - cmd "flutter pub get" install library to be used 
